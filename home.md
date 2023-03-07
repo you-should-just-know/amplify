@@ -1,0 +1,28 @@
+# Amplify
+
+## Topics
+
+- [Clean Code](topics/clean-code/index.md)
+- [Clean Coder](topics/clean-coder/index.md)
+- [Cloud](topics/cloud/index.md)
+- [Coding Best Practices](topics/coding-best-practices/index.md)
+- [Design Patterns](topics/design-patterns/index.md)
+- [Design Principles](topics/design-principles/index.md)
+  - [DRY](topics/design-principles/dry-principles/index.md)
+  - [SOLID Principles](topics/design-principles/solid-principles/index.md)
+- [DevOps](topics/devops/index.md)
+- [Git](topics/git/index.md)
+- [Scrum Methodologies]()
+  - [Agile]()
+- [Software Engineering](topics/software-engineering/index.md)
+  - [Principles](topics/software-engineering/principles/index.md)
+  - [Tools](topics/software-engineering/tools/index.md)
+- [Software Architecture](topics/software-architecture/index.md)
+  - [Patterns](topics/software-architecture/patterns/index.md)
+    - [Message Patterns](topics/software-architecture/patterns/message/index.md)
+    - [Performance Patterns](topics/software-architecture/patterns/performance/index.md)
+    - [Security Patterns](topics/software-architecture/patterns/security/index.md)
+- [Software Development Processes](topics/software-developement-processes/index.md)
+  - [Domain-driven Development](topics/software-developement-processes/domain-drive-development/index.md)
+  - [Test-driven Development](topics/software-developement-processes/test-drive-development/index.md)
+- [Test Automation & Pyramid](topics/test-automation/index.md)

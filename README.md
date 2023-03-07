@@ -1,2 +1,3 @@
 # amplify
-A developer resource library used to amplify skills
+
+A developer resource library used to amplify skills and your career
